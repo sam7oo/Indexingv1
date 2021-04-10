@@ -1,6 +1,4 @@
-/**
- * A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Google-Drive-Index
- */
+
 const authConfig = {
     "siteName": "Google Drive Index", // Website name
     "client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
