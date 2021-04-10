@@ -1,4 +1,3 @@
-// Redesigned by t.me/Anshuva from https://github.com/sam7oo/Indexingv1 which was written by someone else, credits are given on Source Page.
 // v2.0.15
 // Initialize the page
 function init() {
